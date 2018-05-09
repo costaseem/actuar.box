@@ -1,3 +1,5 @@
 # actuar.box
 
-Access to project: actuar.com/box
+Access to project: https://actuar.com/box
+
+Front-End development with React & Redux.
